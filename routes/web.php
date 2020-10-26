@@ -58,7 +58,7 @@ Route::get('search', function() {
   //********************* SETUP ALGOLIA LARAVEL  ***************************
   require __DIR__ . '/../vendor/autoload.php';
 
-  $client = new \AlgoliaSearch\Client('LIKNMZQ86D','0c94464660cf89fcf35226a37144afbf');
+  $client = new \AlgoliaSearch\Client('id','key');
   $index = $client->initIndex('myApartments');
 
   //********************* END OF SETUP ALGOLIA LARAVEL ***************************
