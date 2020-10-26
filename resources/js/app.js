@@ -37,8 +37,8 @@ const app = new Vue({
 import algoliasearch from 'algoliasearch';
 
 const client = algoliasearch(
-  'LIKNMZQ86D',
-  '0c94464660cf89fcf35226a37144afbf'
+  'id',
+  'key'
 );
 //
 const index = client.initIndex('myApartments');
@@ -58,8 +58,8 @@ var ltlgAR = [];
 
 (function() {
   var placesAutoComplete = places({
-    appid: 'id',
-    apiKey: 'key',
+    appid: 'LIKNMZQ86D',
+    apiKey: '0cc1b52fd7eedcbbe8ac54b818b413fb',
     container: document.querySelector('#address'),
     // aroundRadius: 20000,
     // aroundLatLng: '41.89193, 12.51133',
