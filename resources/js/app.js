@@ -58,8 +58,8 @@ var ltlgAR = [];
 
 (function() {
   var placesAutoComplete = places({
-    appid: 'LIKNMZQ86D',
-    apiKey: '0cc1b52fd7eedcbbe8ac54b818b413fb',
+    appid: 'id',
+    apiKey: 'key',
     container: document.querySelector('#address'),
     // aroundRadius: 20000,
     // aroundLatLng: '41.89193, 12.51133',
