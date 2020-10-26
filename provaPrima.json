@@ -1,0 +1,123 @@
+[
+  {
+    "objectID": "1",
+    "name": "Goroka",
+    "city": "Goroka",
+    "country": "Papua New Guinea",
+    "airport_id": "GKA",
+    "_geoloc": {
+      "lat": -6.081689,
+      "lng": 145.391881
+    },
+    "nb_airline_liaisons": 10
+  },
+  {
+    "objectID": "2",
+    "name": "Madang",
+    "city": "Madang",
+    "country": "Papua New Guinea",
+    "airport_id": "MAG",
+    "_geoloc": {
+      "lat": -5.207083,
+      "lng": 145.7887
+    },
+    "nb_airline_liaisons": 16
+  },
+  {
+    "objectID": "3",
+    "name": "Mount Hagen",
+    "city": "Mount Hagen",
+    "country": "Papua New Guinea",
+    "airport_id": "HGU",
+    "_geoloc": {
+      "lat": -5.826789,
+      "lng": 144.295861
+    },
+    "nb_airline_liaisons": 22
+  },
+  {
+    "objectID": "4",
+    "name": "Nadzab",
+    "city": "Nadzab",
+    "country": "Papua New Guinea",
+    "airport_id": "LAE",
+    "_geoloc": {
+      "lat": -6.569828,
+      "lng": 146.726242
+    },
+    "nb_airline_liaisons": 22
+  },
+  {
+    "objectID": "5",
+    "name": "Port Moresby Jacksons Intl",
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "airport_id": "POM",
+    "_geoloc": {
+      "lat": -9.443383,
+      "lng": 147.22005
+    },
+    "nb_airline_liaisons": 102
+  },
+  {
+    "objectID": "6",
+    "name": "Wewak Intl",
+    "city": "Wewak",
+    "country": "Papua New Guinea",
+    "airport_id": "WWK",
+    "_geoloc": {
+      "lat": -3.583828,
+      "lng": 143.669186
+    },
+    "nb_airline_liaisons": 12
+  },
+  {
+    "objectID": "7",
+    "name": "Narsarsuaq",
+    "city": "Narssarssuaq",
+    "country": "Greenland",
+    "airport_id": "UAK",
+    "_geoloc": {
+      "lat": 61.160517,
+      "lng": -45.425978
+    },
+    "nb_airline_liaisons": 10
+  },
+  {
+    "objectID": "8",
+    "name": "Nuuk",
+    "city": "Godthaab",
+    "country": "Greenland",
+    "airport_id": "GOH",
+    "_geoloc": {
+      "lat": 64.190922,
+      "lng": -51.678064
+    },
+    "nb_airline_liaisons": 18
+  },
+  {
+    "objectID": "9",
+    "name": "Sondre Stromfjord",
+    "city": "Sondrestrom",
+    "country": "Greenland",
+    "airport_id": "SFJ",
+    "_geoloc": {
+      "lat": 67.016969,
+      "lng": -50.689325
+    },
+    "nb_airline_liaisons": 16
+  },
+  {
+    "objectID": "10",
+    "name": "Thule Air Base",
+    "city": "Thule",
+    "country": "Greenland",
+    "airport_id": "THU",
+    "_geoloc": {
+      "lat": 76.531203,
+      "lng": -68.703161
+    },
+    "nb_airline_liaisons": 4
+  }
+
+  ]
